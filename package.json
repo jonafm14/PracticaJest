@@ -1,0 +1,15 @@
+{
+  "name": "PracticaJest",
+  "version": "1.0.0",
+  "description": "Pruebas con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch":"jest --watch"
+  },
+  "author": "Jonatan Musciachio",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
